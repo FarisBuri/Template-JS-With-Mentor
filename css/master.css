@@ -1,7 +1,7 @@
 /* Start Global Variable */
 
 :root {
-  --main-color: #ff9800;
+  --main-color: #f44336;
 }
 
 /* End Global Variable */
@@ -257,7 +257,7 @@ body {
 
 .landing-page {
   min-height: 100vh;
-  background-image: url("../images/1657858.jpg");
+  background-image: url("../images/Best.jpg");
   background-size: cover;
   position: relative;
 }

@@ -47,6 +47,7 @@ for (let i = 0; i < colorList.length; i++) {
 let landingPage = document.querySelector(".landing-page");
 // array of images
 let imgArray = [
+  "Best.jpg",
   "download.jpg",
   "images (1).jpg",
   "images.jpg",
